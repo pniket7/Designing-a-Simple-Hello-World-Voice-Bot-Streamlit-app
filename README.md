@@ -13,7 +13,7 @@
 
 - Use the following command to install the required dependencies:         
 
-`          `“pip install gtts streamlit”
+“pip install gtts streamlit”
 
 **4.USAGE:**
 
